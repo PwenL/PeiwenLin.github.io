@@ -1,2 +1,2 @@
 # PeiwenLin.github.io
-My ITW homework
+My first coding project! :Winking Face!
